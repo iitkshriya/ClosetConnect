@@ -33,21 +33,21 @@ This project was created as part of a frontend developer interview assignment. I
 
 ## 📁 Project Structure (sample)
 
-src/
-├── assets/ # Static assets (e.g. images, fonts)
-├── components/ # Reusable UI components
-│ ├── Card.tsx
-│ ├── ContentsList.tsx
-│ ├── ContentsFilter.tsx
-│ ├── RangeSlider.tsx
-├── hooks/ # Custom React hooks
-│ ├── useInfiniteScroll.ts
-│ ├── useFilterState.ts
-├── slices/ # Redux slices for filters
-├── store.ts # Redux store setup
-├── types/ # Shared type definitions
-├── App.tsx # Root component
-├── main.tsx # Entry point
+src/\
+├── assets/ # Static assets (e.g. images, fonts)\
+├── components/ # Reusable UI components\
+│ ├── Card.tsx\
+│ ├── ContentsList.tsx\
+│ ├── ContentsFilter.tsx\
+│ ├── RangeSlider.tsx\
+├── hooks/ # Custom React hooks\
+│ ├── useInfiniteScroll.ts\
+│ ├── useFilterState.ts\
+├── slices/ # Redux slices for filters\
+├── store.ts # Redux store setup\
+├── types/ # Shared type definitions\
+├── App.tsx # Root component\
+├── main.tsx # Entry point\
 
 
 ---
