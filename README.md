@@ -86,6 +86,7 @@ Create a `.env` file in the root directory to define environment-specific variab
 
 ```env
 VITE_API_URL=https://closet-recruiting-api.azurewebsites.net
+```
 
 
 ## 🛠 Setup Instructions
